@@ -1,17 +1,17 @@
 {
-  "name": "parsavix/php-lib",
+  "name": "aryantekk/php-lib",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Parsavix",
-      "email": "60689746+parsavix@users.noreply.github.com"
+      "name": "AryanTekk",
+      "email": "61240788+aryantekk@users.noreply.github.com"
     }
   ],
   "require": {},
   "autoload": {
     "psr-4": {
-      "Parsavix\\": "src"
+      "AryanTekk\\": "src"
     }
   },
   "require-dev": {
